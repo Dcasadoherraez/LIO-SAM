@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    },
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}
